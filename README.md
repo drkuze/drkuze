@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/drkuze/drkuze/output/snake.svg" alt="Snake animation" />
+[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drkuze-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/drkuze-R)
 
 ###
