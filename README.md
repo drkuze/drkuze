@@ -41,6 +41,6 @@
 
 ###
 
-[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drkuze-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/drkuze)
+[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drkuze&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/drkuze)
 
 ###
