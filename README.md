@@ -3,15 +3,10 @@
 ###
 
 <p align="middle">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=drkuze&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=drkuze&show_icons=true&theme=gruvbox&hide_border=true&count_private=false" />
 </p>
 <br>
 
-<div align="left">
-  <a href="https://discord.gg/RGFxb4vs3a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
 
 ###
 
