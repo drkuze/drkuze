@@ -9,16 +9,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo"/>
   <img width="12" />
-  [<img src="https://skillicons.dev/icons?i=bun" height="60" alt="Bun logo"/>](https://bun.com/)
+  <img src="https://skillicons.dev/icons?i=bun" height="60" alt="Bun logo"/>
 </div>
 
 ###
 
 <div align="center">
-  [<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />](https://www.youtube.com/channel/UCIGOFhNQy4hLwyiEE33y2qw)
-  [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />](https://discord.com/users/1096077111007129690)
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=fluxer&logo=fluxer&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Fluxer logo"  />
-  [<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />](https://www.twitch.tv/kuzelatte)
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
 </div>
 
 ###
